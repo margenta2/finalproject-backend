@@ -1,0 +1,28 @@
+{
+  "name": "finalproject-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001bserver.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/margenta2/finalproject-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/margenta2/finalproject-backend/issues"
+  },
+  "homepage": "https://github.com/margenta2/finalproject-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "pg": "^8.6.0",
+    "sequelize": "^6.6.4",
+    "sequelize-cli": "^6.2.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Piper10",
+    "database": "xrc_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
