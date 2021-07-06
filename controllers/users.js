@@ -1,5 +1,5 @@
 const User = require('../models').User;
-const Post = require('../models').Movie;
+const Post = require('../models').Post;
 
 const signup = (req, res) => {
     User.create(req.body)
