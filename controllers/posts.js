@@ -39,6 +39,9 @@ const deletePost = (req, res) => {
             id: req.params.index
         }
     })
+    .then(deletedPost => {
+        res.json(deletedPost)
+    })
 }
 
 module.exports = {
