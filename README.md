@@ -63,6 +63,7 @@ This is a resource center for anyone who wants to explore the ex-Jehovah's Witne
   - [Britannica.com](https://www.britannica.com/topic/Jehovahs-Witnesses)
   - Wikipedia.org
   - [Cult Article](https://www.tennessean.com/story/news/religion/2016/09/15/what-makes-cult-cult/90377532/)
+  - Ex-JW Community
 * Colorpalettes.net
 * [Border Generator](https://html-css-js.com/css/generator/border-outline/)
 * Google Font - Della Respira
