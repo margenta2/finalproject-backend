@@ -34,7 +34,7 @@ const editPost = (req, res) => {
 }
 
 const deletePost = (req, res) => {
-    Post.destory({
+    Post.destroy({
         where: {
             id: req.params.index
         }
